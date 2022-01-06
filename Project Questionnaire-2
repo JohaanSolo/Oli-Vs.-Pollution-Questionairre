@@ -1,0 +1,44 @@
+Game Design Document
+Fill up the following document 
+
+
+
+
+Write the title of your project.
+Oli VS Pollution
+
+
+What is the goal of the game? 
+The Goal of the game is to pick up as many plastic bottles from the ground as you can, while dodging the rocks on the ground. 
+the game is imediatly over as soon as you touch one of the rocks. 
+and how ever many plastic bottles you collected is your score.
+
+
+Write a brief story of your game.
+Oli see the amount of trash out on the roads and pllution in the air and is determinded to make a change in the world.
+so he desides to run as far as he posablly can and pick up as much trash as he can.
+
+
+Which are the playing characters of this game? 
+Playing characters are the ones who respond to the user based on the input from the user.
+Cars, monkeys, dinos, wizards, etc., are the playing characters in the game.  
+
+Number	Character Name	What can this character do?
+1	Oli	Oli is a playing character who is picking up all the trash and avoiding the rocks
+ 
+
+Which are the Non-Playing Characters of this game?
+Non-Playing characters are the ones that don't have an action or behavior when the user interacts with the game.
+Hurdles, stones, bananas, coins, etc., are non-playing characters in the game.   
+
+Number	Character Name	What can this character do?
+1	      Rocks	          the rocks are there as obstacles, if the player touches them the game is imediatly over
+2	      Trash	          every time the player pickes up trash the score goes up by one
+
+
+Draw your imagination of this game. What does this game look like?
+Draw the game either on your computer or on paper. 
+Add images of the game scenes to show each of the playing and non-playing characters at least once.
+
+
+How do you plan to make your game engaging? 
